@@ -1,0 +1,13 @@
+In no particular order ...
+
+Consider RecyclerView, may improve perf for many predictions.
+Tests.
+Notifications.
+Predictions should show up as soon as they are due.
+Import/export csv, json, whatever.
+Fix tab/done order for creating predictions and notes.
+Search predictions.
+Slick animations.
+Score vs time plot?
+Make calibration binning smarter.
+Automatically focus the first nonempty tab.

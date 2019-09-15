@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Personal Prediction Log</string>
+    <string name="prediction_hint">Enter a prediction</string>
+    <string name="predict">Predict</string>
+    <string name="percent">%</string>
+    <string name="yes">Yes</string>
+    <string name="no">no</string>
+    <string name="no_due_date">No due date</string>
+    <string name="due_on">Due on %s</string>
+    <string name="created_and_due">Created %s, due %s</string>
+    <string name="error_no_prediction">You gotta make a prediction tho!</string>
+    <string name="error_no_probability">You gotta add some sort of probability thing tho!</string>
+    <string name="score">Score: %s</string>
+    <string name="probability">%d%%</string>
+    <string name="created">Created %s</string>
+    <string name="text_due">Due %s</string>
+    <string name="text_true">True</string>
+    <string name="text_false">False</string>
+    <string name="unresolved">Unresolved</string>
+    <string name="set_due_date">Set due date</string>
+    <string name="unresolve">Unresolve</string>
+    <string name="enter_note">Enter a note</string>
+    <string name="probability_hint">0</string>
+    <string name="nothing_here">There\'s nothing here!</string>
+    <string name="no_predictions">Make a prediction!</string>
+    <string name="button_create">Create</string>
+    <string name="prediction_added">Prediction added.</string>
+    <string name="action_export">Export as CSV</string>
+    <string name="saved">Saved CSV.</string>
+    <string name="save_failed">Failed to save CSV.</string>
+    <string name="no_storage">No external storage mounted.</string>
+</resources>
